@@ -1,5 +1,6 @@
 # pong
 This is a little pong game created with processing (https://processing.org/) (Java).
+
 I watched Daniel Shifmans Coding Challenge #67 (https://www.youtube.com/watch?v=IIrC5Qcb2G4) which I have modified in several aspects:
 
 - different paddle check function
