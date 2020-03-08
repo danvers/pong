@@ -9,6 +9,6 @@ I watched Daniel Shifmans Coding Challenge #67 (https://www.youtube.com/watch?v=
 
 # sounds used in this program
 
-https://freesound.org/people/Alderman2k/sounds/492486/
-https://freesound.org/people/NoiseCollector/packs/254/
-https://freesound.org/people/Rocotilos/sounds/339837/
+- https://freesound.org/people/Alderman2k/sounds/492486/
+- https://freesound.org/people/NoiseCollector/packs/254/
+- https://freesound.org/people/Rocotilos/sounds/339837/
