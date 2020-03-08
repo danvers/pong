@@ -75,13 +75,13 @@ void keyReleased() {
  
 boolean setMove(int k, boolean b) {
   switch (k) {
-  case UP:
+  case 65:
     return leftUp = b;
-  case DOWN:
+  case 89:
     return leftDown = b;
-  case LEFT:
+  case UP:
     return rightUp = b;
-  case RIGHT:
+  case DOWN:
     return rightDown = b;
   default:
     return b;
