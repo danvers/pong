@@ -47,8 +47,8 @@ void draw(){
   puck.show();
   
   stroke(150);
-  for(int i = 50; i < height ; i+=100){
-    line(width/2, i, width/2, i+50);
+  for(int i = 0; i < height ; i+=50){
+    line(width/2, i, width/2, i+25);
   }
   
   fill(150);
